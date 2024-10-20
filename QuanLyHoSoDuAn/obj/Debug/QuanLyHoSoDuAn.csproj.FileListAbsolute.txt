@@ -1,0 +1,16 @@
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\bin\Debug\QuanLyHoSoDuAn.exe.config
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\bin\Debug\QuanLyHoSoDuAn.exe
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\bin\Debug\QuanLyHoSoDuAn.pdb
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\bin\Debug\Guna.UI2.dll
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.csproj.AssemblyReference.cache
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.Properties.Resources.resources
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.csproj.GenerateResource.cache
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.csproj.CoreCompileInputs.cache
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHo.164293E1.Up2Date
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.exe
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.pdb
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.FormDangNhap.resources
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.NhanVien.resources
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.TrangChuControl.resources
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.Usercontrol.HoSoControl.resources
+C:\Users\letra\source\repos\QuanLyHoSoDuAn\obj\Debug\QuanLyHoSoDuAn.Usercontrol.TaiLieuConTrol.resources
