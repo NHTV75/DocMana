@@ -3,15 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace QuanLyHoSoDuAn.Model
 {
-    [Table("Users")]
-    public class User
+    public partial class User
     {
-        [Key]
         public string UserID { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
@@ -24,16 +20,5 @@ namespace QuanLyHoSoDuAn.Model
         public string Status { get; set; }
         public DateTime CreateDate { get; set; }
         public DateTime ModifiedDate { get; set; }
-
-        public User(string userName, string defaultPassword, string fullName, string gender, string role, string status)
-        {
-            UserName = userName;
-            Password = defaultPassword;
-            FullName = fullName;
-            Gender = gender;
-            Role = role;
-            Status = status;
-            CreateDate = DateTime.Now;
-        }
     }
 }

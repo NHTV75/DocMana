@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace QuanLyHoSoDuAn.Model
 {
-    public class User_Group
+    public class Project_Group
     {
-        public string UserID { get; set; }
+        public string ProjectID { get; set; }
         public string GroupID { get; set; }
-        public string Role { get; set; }
-        public DateTime JoinedDate { get; set; }
     }
 }

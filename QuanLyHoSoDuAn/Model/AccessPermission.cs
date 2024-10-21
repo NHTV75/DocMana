@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace QuanLyHoSoDuAn.Model
 {
-    public class User_Department
+    public class AccessPermission
     {
+        public string PermissionID { get; set; }
         public string UserID { get; set; }
-        public string DepartmentID { get; set; }
-        public string Role { get; set; }
-        public DateTime AssignedDate { get; set; }
+        public string ProfileID { get; set; }
+        public string AccessLevel { get; set; }
     }
 }
